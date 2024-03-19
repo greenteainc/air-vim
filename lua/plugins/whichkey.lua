@@ -24,6 +24,9 @@ return {
 				},
 				c = {
 					name = "+code",
+					a = {"Code Actions"},
+					f = {"Format"},
+
 				},
 
 				e = { ":Neotree filesystem reveal left toggle=true <CR>", "Toggle File Tree" },
