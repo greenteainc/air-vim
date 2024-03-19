@@ -30,6 +30,7 @@ return {
 				},
 
 				e = { ":Neotree filesystem reveal left toggle=true <CR>", "Toggle File Tree" },
+				k = {"Define"}
 			},
 		})
 	end,
