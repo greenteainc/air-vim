@@ -22,6 +22,10 @@ return {
 					n = { "<cmd>enew<cr>", "New File" },
 					b = { "<cmd>Telescope buffers<cr>", "Search Open Buffers" },
 				},
+				c = {
+					name = "+code",
+				},
+
 				e = { ":Neotree filesystem reveal left toggle=true <CR>", "Toggle File Tree" },
 			},
 		})

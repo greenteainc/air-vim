@@ -8,6 +8,6 @@ return {
 				null_ls.builtins.formatting.stylua,
 			},
 		})
-		vim.keymap.set("n", "<leader>.", vim.lsp.buf.format, {})
+		vim.keymap.set("n", "<leader>c.", vim.lsp.buf.format, {})
 	end,
 }
