@@ -1,5 +1,9 @@
 # nvim
 jon's version of nvim
+## Instalation
+```bash
+git clone https://github.com/greenteainc/nvim ~/.config/
+```
 ## Requirements
 - Neovim >= 0.9.0
 - Git >= 2.19.0 
