@@ -1,10 +1,10 @@
 # nvim
 jon's version of nvim
 ## Requirements
-### Neovim >= 0.9.0
-### Git >= 2.19.0 
-### a Nerd Font(v3.0 or greater) (optional, but needed to display some icons)
-### a C compiler
+- Neovim >= 0.9.0
+- Git >= 2.19.0 
+- a Nerd Font(v3.0 or greater) (optional, but needed to display some icons)
+- a C compiler
 ## for telescope.nvim (optional)
 - live grep: ripgrep
 - find files: fd
