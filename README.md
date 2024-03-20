@@ -1,8 +1,8 @@
 # nvim
 jon's version of nvim
 ## Requirements
-### Neovim >= 0.9.0 (needs to be built with LuaJIT)
-### Git >= 2.19.0 (for partial clones support)
+### Neovim >= 0.9.0
+### Git >= 2.19.0 
 ### a Nerd Font(v3.0 or greater) (optional, but needed to display some icons)
 ### a C compiler
 ## for telescope.nvim (optional)
