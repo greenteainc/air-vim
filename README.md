@@ -3,7 +3,7 @@ I tried to create the nvim distro I had when I was trying to switch from vscode 
 ## Installation
 - ***Make sure to back up your nvim config***
 ```bash
-git clone https://github.com/greenteainc/cowboy-vim ~/.config/nvim
+git clone https://github.com/greenteainc/air-vim ~/.config/nvim
 ```
 ## Requirements
 - Neovim >= 0.9.0
