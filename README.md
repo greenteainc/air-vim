@@ -1,5 +1,5 @@
-# nvim
-I tried to create the nvim distro I had when I was trying to switch from vscode to vim, and this is the result. This project is fully open source and I'm open to any suggestions (especially a new name) :)
+# Air Vim
+I tried to create the nvim distro I had when I was trying to switch from vscode to vim, and this is the result. This project is fully open source and I'm open to any suggestions :)
 ## Installation
 - ***Make sure to back up your nvim config***
 ```bash
